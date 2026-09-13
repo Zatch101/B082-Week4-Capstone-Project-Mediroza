@@ -1,4 +1,11 @@
+B082-Week4-Capstone-Project-Mediroza
 # 🛡️ Mediroza Hospital — Penetration Testing & Security Assessment
+
+![Skill](https://img.shields.io/badge/Skill-Cybersecurity-red)
+![Skill](https://img.shields.io/badge/Skill-Ethical%20Hacking-red)
+![Tool](https://img.shields.io/badge/Tool-Networkwalks%20Hash%20Calculator-informational)
+![Tool](https://img.shields.io/badge/Tool-Networkwalks%20Password%20Cracker-informational)
+![Platform](https://img.shields.io/badge/Platform-Web%20Browser-blue)
 
 ## 📌 Project Overview
 
